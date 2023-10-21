@@ -6,7 +6,7 @@ The "One Thing Task Manager" is a lightweight React application with a sleek int
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anasfaz/React-One-Thing-Project/blob/main/public/Vite%20%2B%20React%20-%20Google%20Chrome%202023-10-21%2023-22-14.gif)
 
 
 ## Features
