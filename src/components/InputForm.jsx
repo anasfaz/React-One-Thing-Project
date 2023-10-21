@@ -3,7 +3,7 @@ import { Fragment } from "react"
 import {
   ArrowRightCircleIcon,
 } from "@heroicons/react/24/solid";
-const Form =({thing,handleInput,handleSubmit}) =>{
+const InputForm =({thing,handleInput,handleSubmit}) =>{
     return(
         <Fragment><h1 className="text-3xl sm:text-6xl font-bold text-center mb-8">
           
@@ -36,4 +36,4 @@ const Form =({thing,handleInput,handleSubmit}) =>{
     )
 }
 
-export default Form
+export default InputForm;
